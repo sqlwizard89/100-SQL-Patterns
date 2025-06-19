@@ -19,6 +19,7 @@ Sales.Customers
 
 Sales.Orders
 
+
 🧮 SQL Query
 
 SELECT 
