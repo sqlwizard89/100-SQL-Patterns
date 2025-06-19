@@ -29,6 +29,8 @@ LEFT JOIN sales.Orders o
   ON c.CustomerID = o.CustomerID
   AND o.OrderDate > DATEADD(MONTH, -12, GETDATE())
 WHERE o.OrderID IS NULL;
+
+
 📊 Sample Output
 CustomerID	CustomerName
 114	Ride More Bikes
