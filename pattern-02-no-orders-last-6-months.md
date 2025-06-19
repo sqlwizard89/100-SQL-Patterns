@@ -30,6 +30,7 @@ LEFT JOIN sales.Orders o
   ON c.CustomerID = o.CustomerID 
   AND o.OrderDate >= DATEADD(MONTH, -6, GETDATE())
 WHERE o.OrderID IS NULL;
+
 📊 Sample Output
 CustomerID	CustomerName
 110	Alpine Outfitters
