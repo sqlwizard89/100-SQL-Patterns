@@ -28,14 +28,14 @@ Each file includes:
 
 ## ✅ Completed Patterns
 
-| Pattern Number | Title                                      | Status  | Link                                           |
-|----------------|--------------------------------------------|---------|------------------------------------------------|
-| 01             | Total Revenue per Customer (Last 12 Months) | ✅ Done | [pattern-01-customer-revenue.md](pattern-01/pattern-01-customer-revenue.md)           |
-| 02             | Customers with No Orders in Last 6 Months   | ✅ Done | [pattern-02-no-orders-last-6-months.md](pattern-02/pattern-02-no-orders-last-6-months.md)  |
-| 03             | Most Frequently Sold Products                | ✅ Done | [pattern-03-top-products-sold.md](pattern-03/pattern-03-top-products-sold.md)           |
-| 04             | Customers with No Orders in Last 12 Months  | ✅ Done | [pattern-04-no-orders-last-12-months.md](pattern-04/pattern-04-no-orders-last-12-months.md) |
-| 05             | Top Customers by Number of Orders in Last 3 Months | ✅ Done | [pattern-05-top-customers-by-order-count.md](pattern-05/pattern-05-top-customers-by-order-count.md) |
-| 06             | Top 3 Products Sold Each Month                | ✅ Done | [pattern-06-top-3-products-sold-per-month.md](pattern-06/pattern-06-top-3-products-sold-per-month.md)  |
+| Pattern Number | Title                                      | Status  | Relevance                            |
+|----------------|--------------------------------------------|---------|------------------------------------|
+| 01             | Total Revenue per Customer (Last 12 Months) | ✅ Done | Revenue analysis, sales reporting  |
+| 02             | Customers with No Orders in Last 6 Months   | ✅ Done | Customer inactivity, churn analysis|
+| 03             | Most Frequently Sold Products                | ✅ Done | Product popularity, inventory mgmt |
+| 04             | Customers with No Orders in Last 12 Months  | ✅ Done | Long-term churn, re-engagement     |
+| 05             | Top Customers by Number of Orders in Last 3 Months | ✅ Done | Customer engagement, sales trends  |
+| 06             | Top 3 Products Sold Each Month                | ✅ Done | Monthly sales ranking, product demand|
 
 > More patterns added daily. Target: **100** patterns with full coverage.
 
