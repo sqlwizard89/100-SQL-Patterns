@@ -35,6 +35,8 @@ INNER JOIN warehouse.StockItems SI
   ON OL.StockItemID = SI.StockItemID
 GROUP BY SI.StockItemID, SI.StockItemName
 ORDER BY Total_Quantity_Sold DESC;
+
+
 📊 Sample Output
 StockItemID	StockItemName	Total_Quantity_Sold
 101	Road-750 Black, 52	4,580
