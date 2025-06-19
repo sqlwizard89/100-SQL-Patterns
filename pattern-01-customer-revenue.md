@@ -33,11 +33,6 @@ WHERE i.InvoiceDate >= DATEADD(YEAR, -1, GETDATE())
 GROUP BY c.CustomerID, c.CustomerName
 ORDER BY Total_Revenue DESC;
 
-📊 Sample Output
-CustomerID	CustomerName	Total_Revenue
-105	Contoso Traders	98,500.00
-112	Tailspin Toys	76,210.45
-123	Northwind Bikes	69,480.20
 
 🎯 Why This Pattern Matters
 This is a classic business metric that appears in dashboards, reports, and interviews. It helps identify top customers and revenue concentration, which are key to business growth strategies.
