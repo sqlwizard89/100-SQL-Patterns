@@ -31,13 +31,16 @@ Each file includes:
 | Pattern Number | Title                                              | Status  | Relevance                            |
 |----------------|----------------------------------------------------|---------|------------------------------------|
 | 01             | Total Revenue per Customer (Last 12 Months)        | ✅ Done | Revenue analysis, sales reporting  |
-| 02             | Customers with No Orders in Last 6 Months           | ✅ Done | Customer inactivity, churn analysis|
-| 03             | Most Frequently Sold Products                        | ✅ Done | Product popularity, inventory mgmt |
-| 04             | Customers with No Orders in Last 12 Months          | ✅ Done | Long-term churn, re-engagement     |
-| 05             | Top Customers by Number of Orders in Last 3 Months  | ✅ Done | Customer engagement, sales trends  |
-| 06             | Top 3 Products Sold Each Month                       | ✅ Done | Monthly sales ranking, product demand|
-| 07             | Customers with Growing Spending                      | ✅ Done | Customer growth tracking            |
-| 08             | Customers with Declining Spending                    | ✅ Done | Churn risk identification           |
+| 02             | Customers with No Orders in Last 6 Months          | ✅ Done | Customer inactivity, churn analysis|
+| 03             | Most Frequently Sold Products                      | ✅ Done | Product popularity, inventory mgmt |
+| 04             | Customers with No Orders in Last 12 Months         | ✅ Done | Long-term churn, re-engagement     |
+| 05             | Top Customers by Number of Orders in Last 3 Months | ✅ Done | Customer engagement, sales trends  |
+| 06             | Top 3 Products Sold Each Month                     | ✅ Done | Monthly sales ranking, product demand|
+| 07             | Customers with Growing Spending                    | ✅ Done | Customer growth tracking            |
+| 08             | Customers with Declining Spending                  | ✅ Done | Churn risk identification           |
+| 09             | Customers with Growing Order Count                 | ✅ Done | Repeat purchase frequency           |
+| 10             | Customers with Increasing Average Order Value      | ✅ Done | Revenue optimization, high-value growth |
+
 
 > More patterns added regularly. Target: **100** patterns with comprehensive coverage.
 
