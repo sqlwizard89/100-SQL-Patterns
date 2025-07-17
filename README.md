@@ -40,7 +40,7 @@ Each file includes:
 | 08             | Customers with Declining Spending                  | ✅ Done | Churn risk identification           |
 | 09             | Customers with Growing Order Count                 | ✅ Done | Repeat purchase frequency           |
 | 10             | Customers with Increasing Average Order Value      | ✅ Done | Revenue optimization, high-value growth |
-
+| 12             | Customers with Largest Single Order in Last 60 Days Compared to Previous Orders | ✅ Done | High-value customer identification |
 
 > More patterns added regularly. Target: **100** patterns with comprehensive coverage.
 
